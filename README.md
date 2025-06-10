@@ -1,72 +1,77 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="left">Hi 👋! My name is **Mohammad Abir Rahman** and I'm a **Full-Stack Developer | AI Enthusiast**, from **Dhaka, Bangladesh**</h2>
 
-<div align="center">
-  <p>A passionate Full-Stack Developer | AI Enthusiast | Problem Solver</p>
+<img align="right" height="150" src="https://media.tenor.com/5YNsHzGjE3oAAAAC/programming-hello-world.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  height="30" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  height="30" alt="fastapi logo" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,fastapi,flask" height="60" alt="tech stack" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,typescript,python" height="60" alt="tech stack" />
-</div>
-
-### 
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
-  <a href="https://linkedin.com/in/abirzishan32">
-    <img src="https://img.shields.io/badge/abirzishan32-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="left">
+  <a href="https://linkedin.com/in/abirzishan32"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <img width="12" />
   <a href="https://github.com/abirzishan32">
-    <img src="https://img.shields.io/badge/@abirzishan32-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github" />
   </a>
   <img width="12" />
   <a href="https://leetcode.com/localhost8000">
-    <img src="https://img.shields.io/badge/LeetCode-localhost8000-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=orange&logoColor=white&style=for-the-badge" height="35" alt="leetcode" />
+  </a>
+  <img width="12" />
+  <a href="mailto:abirzishan32@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
   </a>
 </div>
 
 ### 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abirzishan32&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=abirzishan32&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
+## 🎓 Education
+**Khulna University of Engineering & Technology**  
+BSc in Computer Science & Engineering | *CGPA: 3.58/4.0*  
+March 2022 – Present  
 
-###   
+###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirzishan32/abirzishan32/output/pacman-contribution-graph-dark.svg"> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirzishan32/abirzishan32/output/pacman-contribution-graph.svg"> 
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/abirzishan32/abirzishan32/output/pacman-contribution-graph.svg"> 
-</picture>
+## 💼 Experience
+**Intern Web Developer** – *iTransition Group (Remote)*  
+- Enhanced PHP/Symfony user dashboard with bulk actions and security features.  
+- Improved codebase maintainability using Doctrine ORM best practices.  
 
-###  
+**Intern Backend Developer** – *Brainery IT*  
+- Built Laravel backend for MA Computer with Cart, Wishlist, and Review systems.  
+- Implemented Laravel Policies and Requests for secure, scalable code.  
 
-## 🔍 About Me  
-I'm **Mohammad Abir Rahman**, a Computer Science student at Khulna University of Engineering & Technology with a CGPA of 3.58/4.0. I specialize in full-stack development, AI integration, and problem-solving (LeetCode: Top 17.74% globally). My focus is on building scalable web applications and innovative AI-driven solutions [[6]](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/adding-a-readme-to-your-profile). 
+###
 
-### 💼 Experience  
-**Intern Web Developer** - *iTransition Group (Remote)*  
-- Enhanced a PHP/Symfony user dashboard with bulk actions and security features [[2]](https://www.sitepoint.com/github-profile-readme/). 
+## 🚀 Projects
+**[Candid Minds](https://github.com/abirzishan32/candid-minds)**   
+AI-powered voice-assistant interview system with real-time feedback and ATS-optimized resume builder.  
 
-**Intern Backend Developer** - *Brainery IT*  
-- Developed Laravel-based backend for MA Computer with Cart, Wishlist, and Review systems [[3]](https://www.gitkraken.com/blog/github-profile-readme). 
+**[Kothakoli](https://github.com/abirzishan32/kothakoli)**   
+Realtime Banglish-Bangla translation platform with FastAPI and MongoDB.  
 
-### 🚀 Projects  
-**Candid Minds**  
-- Built an AI-powered voice-assistant interview system with real-time feedback and a resume builder [[9]](https://dev.to/abhirathore2000/wtf-is-github-profile-readme-md-1f9). 
+**[Smart Cafeteria](https://github.com/abirzishan32/smart-cafeteria)**   
+AI-driven meal recommendation system for KUET using Next.js and Express.  
 
-**All-in-One University Website**  
-- Developed KUET’s Smart Cafeteria system using Next.js and Express with AI-driven meal recommendations.
+###
 
-**Kothakoli**  
-- Realtime Banglish-Bangla translation platform with FastAPI and MongoDB.
-
-### 🏆 Achievements  
-- **KUET Uprising Team Award** (Hackathon Winner 2025) [[7]](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-profile-on-github/presence-on-github/customizing-your-profile). 
-
-###  
+## 🏆 Achievements
+- **KUET Uprising Team Award** (Hackathon Winner 2025)  
+- LeetCode Top 17.74% Globally (Solved 150+ problems)  
