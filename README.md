@@ -2,31 +2,15 @@
 
 <img align="right" height="150" src="https://media.tenor.com/m/5YNsHzGjE3oAAAAC/programming-hello-world.gif"  />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30" alt="javascript logo" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,fastapi,flask" height="60" alt="tech stack" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  height="30" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,typescript,python" height="60" alt="tech stack" />
 </div>
 
 <div align="left">
-  <a href="https://leetcode.com/localhost8000/"  target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode" /> 
+  <a href="https://leetcode.com/localhost8000/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode" />    
   </a>
   <a href="mailto:abirzishan32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="35" alt="gmail" />
@@ -44,7 +28,7 @@
 ### 🚀 About Me 
 - 🔭 BSc in CSE @ **Khulna University of Engineering & Technology** (CGPA: 3.58/4.0)  
 - 💻 Backend specialist with **Laravel & Express** expertise  
-- 🏆 Winner of **KUET Bitfest Hackathon 2025** [[9]](https://www.linkedin.com/in/abir-rahman-059169264/)   
+- 🏆 Winner of **KUET Bitfest Hackathon 2025** [[9]](https://www.linkedin.com/in/abir-rahman-059169264/)      
 - 🧠 **LeetCode** Top 17.74% (Rating: 1645+)  
 - 🌱 Exploring **AI/LLM** frameworks: LangChain, LangGraph  
 
