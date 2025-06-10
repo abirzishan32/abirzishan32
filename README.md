@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is **Mohammad Abir Rahman** and I'm a **Full-Stack Developer | AI Enthusiast**, from **Dhaka, Bangladesh**</h2>
+<h2 align="left">Hi 👋! My name is Mohammad Abir Rahman and I'm a Full-Stack Developer | AI Enthusiast, from Dhaka, Bangladesh </h2>
 
 <img align="right" height="150" src="https://media.tenor.com/5YNsHzGjE3oAAAAC/programming-hello-world.gif"  />
 
