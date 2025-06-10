@@ -1,77 +1,75 @@
-<h2 align="left">Hi 👋! My name is Mohammad Abir Rahman and I'm a Full-Stack Developer | AI Enthusiast, from Dhaka, Bangladesh </h2>
+<h2 align="left">Hi 👋! My name is Mohammad Abir Rahman and I'm a Software Developer, from Bangladesh.</h2>
 
-<img align="right" height="150" src="https://media.tenor.com/5YNsHzGjE3oAAAAC/programming-hello-world.gif"  />
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="30" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  height="30" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  height="30" alt="fastapi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/abirzishan32"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
+  <a href="https://leetcode.com/localhost8000/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode logo"  />
   </a>
-  <img width="12" />
-  <a href="https://github.com/abirzishan32">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github" />
-  </a>
-  <img width="12" />
-  <a href="https://leetcode.com/localhost8000">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=orange&logoColor=white&style=for-the-badge" height="35" alt="leetcode" />
-  </a>
-  <img width="12" />
   <a href="mailto:abirzishan32@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-### 
-
-## 🎓 Education
-**Khulna University of Engineering & Technology**  
-BSc in Computer Science & Engineering | *CGPA: 3.58/4.0*  
-March 2022 – Present  
-
 ###
 
-## 💼 Experience
-**Intern Web Developer** – *iTransition Group (Remote)*  
-- Enhanced PHP/Symfony user dashboard with bulk actions and security features.  
-- Improved codebase maintainability using Doctrine ORM best practices.  
+<br />
 
-**Intern Backend Developer** – *Brainery IT*  
-- Built Laravel backend for MA Computer with Cart, Wishlist, and Review systems.  
-- Implemented Laravel Policies and Requests for secure, scalable code.  
+### 🚀 About Me
+- 🔭 BSc in CSE @ **Khulna University of Engineering & Technology** (CGPA: 3.58/4.0)  
+- 💻 Backend specialist with **Laravel & Express** expertise  
+- 🏆 Winner of **KUET Bitfest Hackathon 2025**  
+- 🧠 **LeetCode** Top 17.74% (Rating: 1645+)  
+- 🌱 Exploring **AI/LLM** frameworks: LangChain, LangGraph  
 
-###
+### 💼 Experience
+- **Intern Web Developer** @ iTransition Group (Remote)  
+  `Symfony | Doctrine ORM | Security Enhancements`  
+- **Intern Backend Developer** @ Brainery IT  
+  `Laravel | REST APIs | Policy Management`  
 
-## 🚀 Projects
-**[Candid Minds](https://github.com/abirzishan32/candid-minds)**   
-AI-powered voice-assistant interview system with real-time feedback and ATS-optimized resume builder.  
+### 🌟 Projects
+- **Candid Minds**: AI-powered interview platform with real-time proctoring  
+  `NextJS | Firebase | TensorFlow`  
+- **KUET Smart Cafeteria**: AI-driven meal recommendation system  
+  `Express | Computer Vision`  
+- **Rhythmic Pulse**: Music event platform with payment integration  
+  `Laravel | Payment Gateway`  
+- **Kothakoli**: Realtime Banglish-Bangla translator  
+  `FastAPI | WebSockets`  
 
-**[Kothakoli](https://github.com/abirzishan32/kothakoli)**   
-Realtime Banglish-Bangla translation platform with FastAPI and MongoDB.  
+### 📈 Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/localhost8000?theme=light&font=Abel)
 
-**[Smart Cafeteria](https://github.com/abirzishan32/smart-cafeteria)**   
-AI-driven meal recommendation system for KUET using Next.js and Express.  
-
-###
-
-## 🏆 Achievements
-- **KUET Uprising Team Award** (Hackathon Winner 2025)  
-- LeetCode Top 17.74% Globally (Solved 150+ problems)  
+> *Portfolio and LinkedIn links are placeholders - add your actual URLs when available*
