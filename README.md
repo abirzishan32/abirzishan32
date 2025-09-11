@@ -26,8 +26,8 @@
 <br />
 
 ### 🚀 About Me 
-- 🔭 BSc in CSE @ **Khulna University of Engineering & Technology** (CGPA: 3.58/4.0)  
-- 💻 Backend specialist with **Laravel & Express** expertise  
+- 🔭 BSc in CSE @ **Khulna University of Engineering & Technology**  
+- 💻 Full-Stack Web Developer || AI/ML Developer
 - 🏆 Won **KUET Rising Team** award of **KUET Bitfest Hackathon 2025**
 - 🏆 Finalist of **BracU Hackathon 2025**.
 - 🏆 Finalist of **AI Category** of **Blockchain Olympiad 2025**.
