@@ -28,7 +28,9 @@
 ### 🚀 About Me 
 - 🔭 BSc in CSE @ **Khulna University of Engineering & Technology** (CGPA: 3.58/4.0)  
 - 💻 Backend specialist with **Laravel & Express** expertise  
-- 🏆 Winner of **KUET Bitfest Hackathon 2025** [[9]](https://www.linkedin.com/in/abir-rahman-059169264/)      
+- 🏆 Won **KUET Rising Team** award of **KUET Bitfest Hackathon 2025**
+- 🏆 Finalist of **BracU Hackathon 2025**.
+- 🏆 Finalist of **AI Category** of **Blockchain Olympiad 2025**.
 - 🧠 **LeetCode** Top 17.74% (Rating: 1645+)  
 - 🌱 Exploring **AI/LLM** frameworks: LangChain, LangGraph  
 
