@@ -42,11 +42,11 @@
 `Laravel | REST APIs | Policy Management`  
 
 ### 🌟 Projects
-**[Candid Minds](https://github.com/abirzishan32/candid-minds)**   
+**[ChakriGO](https://github.com/abirzishan32/chakrigo)**   
 AI-powered interview platform with real-time proctoring  
 `NextJS | Firebase | TensorFlow`  
 
-**[KUET Smart Cafeteria](https://github.com/abirzishan32/smart-cafeteria)**   
+**[KUET Smart Cafeteria](https://github.com/taut0logy/KUET-Campus)**   
 AI-driven meal recommendation system  
 `Express | Computer Vision`  
 
