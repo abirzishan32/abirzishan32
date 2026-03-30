@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! [cite_start]My name is Mohammad Abir Rahman from Bangladesh.</h2> [cite: 1, 3]
+<h2 align="left">Hi 👋! My name is Mohammad Abir Rahman from Bangladesh.</h2> [cite: 1, 3]
 
 <img align="right" height="150" src="https://media.tenor.com/m/5YNsHzGjE3oAAAAC/programming-hello-world.gif" />
 
