@@ -18,9 +18,7 @@
   <a href="https://www.linkedin.com/in/abir-rahman-059169264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="35" alt="linkedin" />
   </a>
-  <a href="https://portfolio-using-next-js-dusky.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" height="35" alt="portfolio" />
-  </a>
+  
 </div>
 
 <br />
